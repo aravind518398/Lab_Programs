@@ -1,0 +1,10 @@
+Name,Designation,Dept,Salary
+Sita,Manager,Sales,60000.0
+Tom,Clerk,Finance,NaN
+Dan,NaN,Marketing,80000.0
+Mark,Accountant,Finance,75000.0
+Bell,Clerk,Purchase,30000.0
+John,Engineer,Maintenance,60000.0
+Rahul,Clerk,Sales,30000.0
+Irfan,NaN,Marketing,56000.0
+Rahul,Clerk,Sales,30000.0

@@ -5,7 +5,7 @@ p = inflect.engine()
 
 def convert_number(text):
     return re.sub(r'\d+',
-        lambda match: p.number_to_words(int(match.group())),
+        lambda match: p.number_to_words(match.group()),
         text      
     )
 
